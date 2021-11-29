@@ -7,6 +7,7 @@ library(shiny)
 library(dplyr)
 library(readr)
 
+
 options(gsubfn.engine="R")
 
 # Uvozimo funkcije za pobiranje in uvoz zemljevida.
