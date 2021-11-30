@@ -1,6 +1,6 @@
 ---
-title: "Poročilo pri predmetu Analiza podatkov s programom R"
-author: "Študent FMF"
+title: "Analiza podatkov s programom R 2021/2022 - Analiza podnebja v Sloveniji"
+author: "Martin Iglič"
 output:
   html_document: default
   pdf_document:
